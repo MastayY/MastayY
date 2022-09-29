@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mastay <img src="https://cdn3.emoji.gg/emojis/7156-remwink.png" width="64px" height="64px"></a>
+<h1 align="center">Hi 👋, I'm Mastay <img src="https://cdn3.emoji.gg/emojis/1826-apricotdance.gif" width="64px" height="64px" alt="ApricotDance"></a>
 <h3 align="center">A student and beginner Front-End developer from Indonesia</h3>
 
 - 🔭 I’m currently working on my **Python Course**
@@ -41,19 +41,26 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastayY&theme=react&layout=compact" />
 </p>
 
-<h2 align="center">
-My Current Workstation Specification </h2>
+<h3 align="center">
+My Current Workstation Specification </h3>
+
+<div align="center">
+ 
+![Laptop](https://img.shields.io/badge/Acer-Aspire_3_A314_32_C0HM-0071C15?style=for-the-badge&logo=acer&logoColor=white) 
+<br>
+![CPU](https://img.shields.io/badge/Intel-Celeron_N4120_Quad_Core-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+<br>
+![GPU](https://img.shields.io/badge/Intel-UHD_Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+ 
+</div>
 
 <div align="center">
   
-![Laptop](https://img.shields.io/badge/ACER A314-32-C0HM?style=for-the-badge&logo=windows&logoColor=white) 
-<br>
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
-![CPU](https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
- 
-  
-
+ ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
 
 </div>
+
 
 ------
