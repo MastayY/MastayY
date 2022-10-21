@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on my **Python Course**
 
-- 🌱 I’m currently learning **HTML5, CSS3, Javascript**
+- 🌱 I’m currently learning **HTML5, CSS3, Javascript, and PHP**
 
 - ⚡ What I like to do: **I like listening music, Table Tennis, and watching anime...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.linkedin.com/in/lauro_brant-1/](https://www.youtube.com/channel/UCKUrCiD0yA0SLrkwo-HmtfA))
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
+[![image](https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKUrCiD0yA0SLrkwo-HmtfA)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mastay.js/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.nasywanfadilah@gmail.com)
   
 </div>
@@ -30,6 +30,9 @@
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://php.net/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
