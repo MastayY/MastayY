@@ -1,9 +1,9 @@
 ### Hi! 👋 I'm Nasywan.
 
-An independent Frontend Engineer who loves to create and share projects about web development! I've enjoyed JavaScript and trying to make it the main language in creating a project.
+An independent Frontend Engineer who loves to create and share projects about web development!
 
-- 🔭 I'm currently studying at Amikom University Yogyakarta, majoring in S1 Informatics
-- 🌱 I’m currently learning about Backend Development
+- 🔭 I'm currently studying at Amikom University Yogyakarta, majoring in Bachelor of Informatics
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me: nasywanfadilah@gmail.com
 - ⚡ Fun fact: I like coding, listening to music, and watching anime
 
