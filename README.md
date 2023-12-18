@@ -1,9 +1,9 @@
 ### Hi! 👋 I'm Nasywan.
 
-An independent Frontend Engineer who loves to create and share projects about web development!
+A person who loves and interested in Web Development and Game Development!
 
 - 🔭 I'm currently studying at Amikom University Yogyakarta, majoring in Bachelor of Informatics
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS and Godot Engine
 - 📫 How to reach me: nasywanfadilah@gmail.com
 - ⚡ Fun fact: I like coding, listening to music, and watching anime
 
