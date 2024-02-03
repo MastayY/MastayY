@@ -1,21 +1,31 @@
 ### Hi! 👋 I'm Nasywan.
 
-A person who loves and interested in Web Development and Game Development!
+#### Fulltime Learner
+
+A person who loves and interested in Web Development!
 
 - 🔭 I'm currently studying at Amikom University Yogyakarta, majoring in Bachelor of Informatics
-- 🌱 I’m currently learning React JS and Godot Engine
-- 📫 How to reach me: nasywanfadilah@gmail.com
 - ⚡ Fun fact: I like coding, listening to music, and watching anime
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://php.net"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/220px-PHP-logo.svg.png" /></a>
-  <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"></a>
-  <a href="CSS"><img align="left" alt="CSS" title="CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" /></a>
+### Using/Learning
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   <br>
   <br>
+
+
+### My Project
+- [Portfolio](https://nasywan.my.id)
+- [Losske](https://losske.rf.gd)
+- [Note Swift](https://noteswift.vercel.app)
+
+### Next Project
+- Anime Streaming Website
   
 ### Github Statistic
 <p align="left">
@@ -25,6 +35,3 @@ A person who loves and interested in Web Development and Game Development!
 </a>
 </p>
 
-### Reach me on
-- <a href="https://instagram.com/nniceone._/">Instagram</a>
-- <a href="https://nasywan.my.id">Website</a>
